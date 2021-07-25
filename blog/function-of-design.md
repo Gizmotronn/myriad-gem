@@ -1,53 +1,79 @@
 ---
 title: The function of design is letting design function
-subtitle: A interesting tale about function of design
+subtitle: Why a bee should not be able to fly
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
-date: '2020-01-15'
-thumb_image: images/post-1-thumb.jpg
-thumb_image_alt: White concrete building wall
-image: images/post-1.jpg
-image_alt: White concrete building wall
+  According to all known laws of aviation, there is no way a bee should be able
+  to fly. Its wings are too small to get its fat little body off the ground. The
+  bee, of course, flies anyway
+date: '2021-07-22'
+thumb_image: >-
+  https://media.vanityfair.com/photos/5865e4dd2a49cb2d624ebf47/4:3/w_1280,h_960,c_limit/bee-movie-2016-sequel.jpg
+thumb_image_alt: Bee movie
+image: >-
+  https://media.vanityfair.com/photos/5865e4dd2a49cb2d624ebf47/4:3/w_1280,h_960,c_limit/bee-movie-2016-sequel.jpg
+image_alt: Bee movie
 seo:
-  title: The function of design is letting design function
+  title: Why bees cannot really fly
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore
+    According to all known laws of aviation, there is no way a bee should be
+    able to fly. Its wings are too small to get its fat little body off the
+    ground. The bee, of course, flies anyway
   extra:
     - name: 'og:type'
       value: article
-      keyName: property
+      keyName: aviation
     - name: 'og:title'
-      value: The function of design is letting design function
+      value: Why bees cannot really fly
       keyName: property
     - name: 'og:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+        According to all known laws of aviation, there is no way a bee should be
+        able to fly. Its wings are too small to get its fat little body off the
+        ground. The bee, of course, flies anyway
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: >-
+        https://media.vanityfair.com/photos/5865e4dd2a49cb2d624ebf47/4:3/w_1280,h_960,c_limit/bee-movie-2016-sequel.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The function of design is letting design function
+      value: Why bees cannot really fly
     - name: 'twitter:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+        According to all known laws of aviation, there is no way a bee should be
+        able to fly. Its wings are too small to get its fat little body off the
+        ground. The bee, of course, flies anyway
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: >-
+        https://media.vanityfair.com/photos/5865e4dd2a49cb2d624ebf47/4:3/w_1280,h_960,c_limit/bee-movie-2016-sequel.jpg
       relativeUrl: true
 layout: post
+published: true
 ---
+According to all known laws
+of aviation,
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
+  
+there is no way a bee
+should be able to fly.
 
-Aenean sed adipiscing diam donec. Id donec ultrices tincidunt arcu non sodales. Orci ac auctor augue mauris augue neque gravida in. Mattis enim ut tellus elementum sagittis vitae et leo duis. Tortor pretium viverra suspendisse potenti nullam. Malesuada proin libero nunc consequat. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Mauris vitae ultricies leo integer malesuada nunc. Eget magna fermentum iaculis eu. Molestie at elementum eu facilisis. Dui faucibus in ornare quam viverra orci sagittis. Aliquam ultrices sagittis orci a scelerisque purus semper eget.
+  
+Its wings are too small to get
+its fat little body off the ground.
 
-Tellus mauris a diam maecenas sed enim. Enim facilisis gravida neque convallis a cras. Sollicitudin nibh sit amet commodo nulla facilisi. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Semper viverra nam libero justo laoreet sit. Vestibulum sed arcu non odio euismod lacinia at quis risus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Aliquam sem et tortor consequat id porta nibh venenatis cras. Et leo duis ut diam quam nulla porttitor massa id. Sagittis vitae et leo duis ut diam quam. Vitae aliquet nec ullamcorper sit amet. Egestas egestas fringilla phasellus faucibus. Elit pellentesque habitant morbi tristique senectus et netus et. Sagittis purus sit amet volutpat consequat mauris nunc. Commodo odio aenean sed adipiscing. Aliquet eget sit amet tellus cras adipiscing. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Justo eget magna fermentum iaculis eu non.
+  
+The bee, of course, flies anyway
 
-Mi quis hendrerit dolor magna. Vel facilisis volutpat est velit egestas dui id ornare arcu. Sed sed risus pretium quam vulputate. Quam viverra orci sagittis eu volutpat odio facilisis mauris. Enim eu turpis egestas pretium. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Turpis egestas pretium aenean pharetra magna ac. Enim diam vulputate ut pharetra sit amet aliquam id. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Amet nulla facilisi morbi tempus. Aliquet bibendum enim facilisis gravida neque convallis. Nulla pharetra diam sit amet. Vitae nunc sed velit dignissim sodales ut.
+  
+because bees don't care
+what humans think is impossible.
+
+  
+Yellow, black. Yellow, black.
+Yellow, black. Yellow, black.
+
+  
+Ooh, black and yellow!
+Let's shake it up a little.
