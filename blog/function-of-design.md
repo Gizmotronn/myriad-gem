@@ -1,5 +1,5 @@
 ---
-title: The function of design is letting design function
+title: Why bees can't fly
 subtitle: Why a bee should not be able to fly
 excerpt: >-
   According to all known laws of aviation, there is no way a bee should be able
